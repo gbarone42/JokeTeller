@@ -1,0 +1,5 @@
+javac com/JOKETELL/Main.javac
+
+
+java com.JOKETELL.Main
+
